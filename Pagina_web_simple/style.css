@@ -1,0 +1,44 @@
+h1 {
+    color: blue;
+}
+
+body {
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    color: rgb(0, 0, 0);
+}
+
+div {
+
+    
+    background-color: rgb(210, 30, 30);
+    width: 245px;
+    height: 45px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+image {
+
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+div2 {
+
+    padding: 20px;
+    margin: 20px;    
+
+}
+
+div3 {
+
+    padding: 20px;
+    margin: 20px; 
+
+}
