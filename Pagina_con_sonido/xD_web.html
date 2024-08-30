@@ -1,0 +1,65 @@
+<!--La página más epica del mundo,
+Por RafaDEV99-->
+
+<!DOCTYPE html>
+<html lang="es" style="background-color: aqua;">
+    
+    <title>XD Page</title>
+
+    <body>
+        <h2 style="color: blue;">THE XD PAGE OF SOUND</h2>
+        This is the Xd page and her will be a goofy asss cat
+        <img src="Cat.jpg" alt="A goofy asss cat" style="display: grid; padding: 30px;">
+        Press the button for the magic, it works :D
+    </body>
+
+    <body>
+        <!--Los dos botones para parar y reproducir el sonido-->
+        <button id="playSoundButton">On</button>
+        <button id="StopSoundNOWbutton">Off</button>
+        <audio id="sound">
+            <source src="Algunos sonidos/Rick-Astley-Never-Gonna-Give-You-Up-_Official-Music-Video_.mp3" type="audio/mp3">
+            <source src="Algunos sonidos/The-Great-Strategy-_2005_-Roblox-Theme-2006.mp3" type="audio/mp3">
+            <source src="Algunos sonidos/Synthwave-goose-Blade-Runner-2049.mp3" type="audio/mp3"> 
+        </audio>
+        
+    </body>
+
+    <bodyTroll style="visibility: visible; display: grid; padding: 30px;">
+        <div id="troll_body" style="visibility: hidden;">
+            <video id="video">
+                <source src="videos/Never Gonna Give You Up.mp4" type="video/mp4">
+                no es compatible 
+            </video>
+            <img src="troll_face.png" alt="troll face" id="troll_face_XD" style="width: 300px; height: 270px;">
+            
+            YOU HAVE BEAN RICKROLLED!!!, HAHAHAHA XD
+        </div>
+    </bodyTroll>
+
+    <!--Mas cosas aqui-->
+    <script>
+        
+        document.getElementById('playSoundButton').addEventListener('click', function () {
+            
+            document.getElementById("troll_body").setAttribute("style", "display: grid; padding: 30px; visibility: visible;")
+            video = document.getElementById("video")
+            video.play();
+            video.currentTime = 0.0;
+            //audio = document.getElementById('sound');
+            //audio.play();
+            
+        });
+
+        document.getElementById("StopSoundNOWbutton").addEventListener('click', function () {
+            
+            document.getElementById("troll_body").setAttribute("style", "display: grid; padding: 30px; visibility: hidden;")
+            video.pause();
+            video.currentTime = 0.0;
+            //audio.pause();
+            
+        });
+
+    </script>
+
+</html>
