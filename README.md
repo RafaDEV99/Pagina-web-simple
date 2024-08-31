@@ -1,15 +1,13 @@
-# Instruccines:
+# Instructions:
 
-Abre el archivo html con navegador favorito y ya esta, puedes editarlo si quieres
-Tambien hay una pagina web con sonido que puse para que sapas
-solamente arrastra el achivo hasta tu navegador e intectua con la pagina web
+Open the html file with your favorite browser and that's it, you can edit it if you want. There is also a web page with sound that I put so you can just drag the file to your browser and integrate it with the web page.
 
-Si tienes algun problema o comentario, ponlo en la seccion de problemas en github, estoy siempre atento!!!
+If you have any problems or comments, post them in the problems section on github, I'm always on the lookout!!!!
 
+# Credits:
 
-# Creditos:
+These scripts are made by RafaDEV99 You can use these freely as learning how scripts work, however don't copy the same script and don't say it's yours :D
 
-Estos scripts están hechos por RafaDEV99
-Puedes usar estos libremente como aprendizaje de como funcionan los scripts, sin embargo no copies igual el script y no digas que es tuyo :D
+Thanks for respecting my work and happy coding!
 
-¡Gracias por respetar mi trabajo y feliz codificación!
+Translated with DeepL.com (free version)
