@@ -7,5 +7,3 @@ If you have any problems or comments, post them in the problems section on githu
 These scripts are made by RafaDEV99 You can use these freely as learning how scripts work, however don't copy the same script and don't say it's yours :D
 
 Thanks for respecting my work and happy coding!
-
-Translated with DeepL.com (free version)
