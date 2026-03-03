@@ -26,4 +26,4 @@ These are some cool features you can implement:
 4. and more!
 
 Remenber to respect my work!!!
-(This was my first time at web dev, jajaja)
+(This was my first time at web dev, jajaja, epic)
